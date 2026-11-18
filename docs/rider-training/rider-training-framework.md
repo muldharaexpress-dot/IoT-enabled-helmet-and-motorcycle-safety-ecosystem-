@@ -147,7 +147,7 @@ Three streams:
 2. Whether the Motorcycle Movement/Operation Policy 2023 was finalised and gazetted, and its final wording.
 3. BRTA's current licence categories and learner-licence rules for motorcycles.
 4. The current BSTI helmet standard (number and year), and whether UN Regulation No. 22 (series 06) is accepted.
-5. Whether Bangladesh requires ABS or CBS on new motorcycles (India, for comparison, required ABS above 125 cc and CBS at or below 125 cc from April 2019). *Check with BRTA/BSTI.*
+5. Whether Bangladesh requires ABS or CBS on new motorcycles (India, for comparison: a March 2016 MoRTH notification required ABS above 125 cc from 1 April 2018, and ABS or CBS at or below 125 cc; a June 2025 draft proposes ABS on all two-wheelers from January 2026, final status unconfirmed). *Check with BRTA/BSTI.*
 6. Official (police/BRTA) motorcycle death figures for 2024–2025, and the WHO GSRS estimate for Bangladesh.
 7. Which data protection law applies, and its status.
 8. Programme details and training figures for TVS, Bajaj and other consortium members, confirmed directly by each company.
