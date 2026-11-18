@@ -142,22 +142,23 @@ From the international comparison (`docs/international/international-lessons-bn.
 | Riders certified per level per year | Academy MIS | Set after pilot |
 | Helmet-wearing rate (rider and pillion), observed | Roadside observation survey (WHO method) | ↑ year on year |
 | Pass rate on first attempt, by level | Academy MIS | 70–85% (very high rates suggest the test is too easy) |
-| Harsh-braking and speeding events per 100 km (IoT cohort) | Telematics | ↓ 6 months after the course |
+| Harsh-braking and speeding events per 100 km (IoT cohort) | Telematics | ↓ from course end to end of pilot; followed during scale-up |
 | Self-reported and police-recorded crashes, graduates vs control | Cohort study with BUET-ARI | Statistically significant reduction |
 | Share of women trainees | Academy MIS | Set target with the ministry |
 
-**Pilot design:** Start in 2–3 districts (for example Dhaka, Chattogram, and one district with a high highway crash rate). Follow trainees for the whole pilot (6–9 months) against a matched control group. Such a short period may not show a statistically strong fall in crashes, so helmet use, pass rates and IoT behaviour data are the main pilot indicators; long-term crash follow-up continues during scale-up.
+**Pilot design:** Start in 2–3 districts (for example Dhaka, Chattogram, and one district with a high highway crash rate). The whole pilot, including preparation, is 6–9 months; follow trainees from course end to the end of the pilot against a matched control group. Such a short period may not show a statistically strong fall in crashes, so helmet use, pass rates and IoT behaviour data are the main pilot indicators; long-term crash follow-up continues during scale-up.
 
 ---
 
 ## 8. Proposed phases
 
-1. **Months 0–3:** Curriculum approval workshop with BRTA and the consortium. Translate into Bangla. Prepare the instructor training course.
-2. **Months 3–6:** Train and certify the first instructor group (Level 3B). Build or upgrade ranges to a standard layout.
-3. **Pilot (6–9 months):** District pilot for Levels 1–2, with an IoT-helmet cohort.
-4. **End of pilot:** Independent evaluation report → decision on scale-up and on linking certificates to licensing.
-5. **Years 1–2:** Scale-up to all divisional cities and major highways.
-6. **Years 3–5:** National rollout in all districts; mid-term review in 2030 (the target year of SDG 3.6 and UN A/RES/74/299).
+The whole pilot, including preparation, takes 6–9 months:
+
+1. **Months 1–2 (preparation):** Curriculum approval with BRTA and the consortium, MoU. Convert existing instructors (e.g. Honda’s Safety Riding Department, BRTC) to the common certificate; use existing centres and ranges. A new instructor cohort (Level 3B) and new ranges move to the scale-up phase.
+2. **Months 3–5 (3–8 in a 9-month pilot):** District pilot for Levels 1–2, with an IoT-helmet cohort.
+3. **Month 6 (month 9 in a 9-month pilot):** Independent evaluation report → decision on scale-up and on linking certificates to licensing.
+4. **Years 1–2:** Scale-up to all divisional cities and major highways.
+5. **Years 3–5:** National rollout in all districts; mid-term review in 2030 (the target year of SDG 3.6 and UN A/RES/74/299).
 
 ---
 
