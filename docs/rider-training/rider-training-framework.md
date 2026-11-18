@@ -151,6 +151,7 @@ Three streams:
 6. Official (police/BRTA) motorcycle death figures for 2024–2025, and the WHO GSRS estimate for Bangladesh.
 7. Which data protection law applies, and its status.
 8. Programme details and training figures for TVS, Bajaj and other consortium members, confirmed directly by each company.
+9. Volume and page numbers of the GDE matrix source (Hatakka et al., 2002): check against the original journal.
 
 ---
 
