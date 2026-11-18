@@ -146,7 +146,7 @@ From the international comparison (`docs/international/international-lessons-bn.
 | Self-reported and police-recorded crashes, graduates vs control | Cohort study with BUET-ARI | Statistically significant reduction |
 | Share of women trainees | Academy MIS | Set target with the ministry |
 
-**Pilot design:** Start in 2–3 districts (for example Dhaka, Chattogram, and one district with a high highway crash rate). Follow trainees for 12 months against a matched control group, before rolling out nationally.
+**Pilot design:** Start in 2–3 districts (for example Dhaka, Chattogram, and one district with a high highway crash rate). Follow trainees for the whole pilot (6–9 months) against a matched control group. Such a short period may not show a statistically strong fall in crashes, so helmet use, pass rates and IoT behaviour data are the main pilot indicators; long-term crash follow-up continues during scale-up.
 
 ---
 
@@ -154,8 +154,10 @@ From the international comparison (`docs/international/international-lessons-bn.
 
 1. **Months 0–3:** Curriculum approval workshop with BRTA and the consortium. Translate into Bangla. Prepare the instructor training course.
 2. **Months 3–6:** Train and certify the first instructor group (Level 3B). Build or upgrade ranges to a standard layout.
-3. **Months 6–18:** District pilot for Levels 1–2, with an IoT-helmet cohort.
-4. **Month 18:** Independent evaluation report → decision on national rollout and on linking certificates to licensing.
+3. **Pilot (6–9 months):** District pilot for Levels 1–2, with an IoT-helmet cohort.
+4. **End of pilot:** Independent evaluation report → decision on scale-up and on linking certificates to licensing.
+5. **Years 1–2:** Scale-up to all divisional cities and major highways.
+6. **Years 3–5:** National rollout in all districts; mid-term review in 2030 (the target year of SDG 3.6 and UN A/RES/74/299).
 
 ---
 

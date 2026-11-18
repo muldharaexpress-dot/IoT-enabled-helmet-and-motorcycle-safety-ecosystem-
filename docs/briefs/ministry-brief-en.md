@@ -31,7 +31,7 @@ Basis: the **Safe System** approach of WHO *Powered two- and three-wheeler safet
 
 ## 3. Decisions requested from the Ministry
 
-1. **Approve a pilot:** 18 months in 2–3 districts (proposed: Dhaka, Chattogram and one district with a high highway crash rate).
+1. **Approve a pilot:** 6–9 months in 2–3 districts (proposed: Dhaka, Chattogram and one district with a high highway crash rate). If successful, a phased national rollout over the next 5 years.
 2. **Form a technical committee:** BRTA, Police (Traffic), BSTI, BUET-ARI, the manufacturer consortium and a road-safety NGO. It approves the curriculum and assessment standards.
 3. **Accredit the academy:** BRTA (or a body it names) accredits training centres and instructors and audits them every year.
 4. **Link training to licensing (after the pilot):** a Level 1 certificate for a learner licence, and a Level 2 certificate for professional riders (ride-hailing, delivery). BRTA keeps control of the final test.
@@ -55,8 +55,10 @@ Industry work is already under way, and the pilot builds on it. Examples: Bangla
 |---|---|
 | Months 0–3 | Technical committee, curriculum approval workshop, consortium MoU |
 | Months 3–6 | First instructor cohort certified, training ranges ready |
-| Months 6–18 | District pilot (Levels 1–2), including an IoT-helmet cohort |
-| Month 18 | Independent evaluation report → decision on national rollout |
+| Pilot (6–9 months) | District pilot (Levels 1–2), including an IoT-helmet cohort |
+| End of pilot | Independent evaluation report → decision on scale-up |
+| Years 1–2 | Scale-up: all divisional cities and major highways |
+| Years 3–5 | National rollout; certificate linked to licensing; mid-term review in 2030 |
 
 **KPIs:**
 
