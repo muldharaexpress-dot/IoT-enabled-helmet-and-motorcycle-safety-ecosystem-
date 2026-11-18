@@ -153,6 +153,24 @@ Three streams:
 8. Programme details and training figures for TVS, Bajaj and other consortium members, confirmed directly by each company.
 9. Volume and page numbers of the GDE matrix source (Hatakka et al., 2002): check against the original journal.
 
+### 9a. Verification status (online check, 18 Nov 2026)
+
+Official sites (bdlaws.minlaw.gov.bd and others) could not be opened from the working environment, so these results come from news reports and secondary sources. They still need official confirmation.
+
+| # | Item | What was found | Status |
+|---|---|---|---|
+| 1 | RTA 2018 licence ages | Licence provisions are in Chapter 2 ("ড্রাইভিং লাইসেন্স প্রদান, ইত্যাদি"); ages 18/21 and class VIII appear only in secondary sources | Not verified against Gazette text |
+| 2 | Motorcycle policy 2023 | Draft (Feb 2023); March 2023 reports of revision on the Prime Minister's instruction; no final notification found | Treat as draft |
+| 3 | Licence categories | Not checked in this round | Open |
+| 4 | Helmet standard | BSTI standard BDS 1136 (revised 2022, replacing the 1986 version; one BSTI committee document lists a 2026 edition). Helmets are on BSTI's mandatory certification list (Home Minister, May 2023) | Confirm current edition with BSTI |
+| 5 | ABS/CBS | No BRTA rule making ABS or CBS mandatory was found | Not mandatory as far as found: a new policy ask |
+| 6 | Official deaths | No 2024 BRTA annual total found. RSF 2023: 6,524 deaths, 2,487 on motorcycles (38.12%) | Request from BRTA |
+| 7 | Data protection law | Not checked in this round | Open |
+| 8 | TVS/Bajaj programmes | Not found | Ask companies |
+| 9 | Hatakka et al. (2002) | Not checked | Open |
+
+Sources: TBS Bangla (2023 draft) https://www.tbsnews.net/bangla/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6/news-details-135566 ; Paribahan Jagot (revision, 27 Mar 2023) https://www.paribahanjagot.com/2023/03/27/ ; The Daily Star (BSTI helmets) https://www.thedailystar.net/news/bangladesh/governance/news/helmets-cannot-be-marketed-without-bsti-nod-home-minister-3322966 ; BikeBD (BDS 1136:2022) https://www.bikebd.com/bn/blog/how-effective-is-bangladeshs-own-motorcycle-helmet-standard ; Daily Star Bangla (RSF 2023) https://bangla.thedailystar.net/news/bangladesh/accident-fire/news-554596 ; bdlaws chapter title http://bdlaws.minlaw.gov.bd/act-1262/act-chapter-print-2117.html
+
 ---
 
 ## 10. References
