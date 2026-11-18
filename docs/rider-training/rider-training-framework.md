@@ -188,7 +188,7 @@ Official sites (bdlaws.minlaw.gov.bd and others) could not be opened from the wo
 | 4 | Helmet standard | BSTI standard BDS 1136 (revised 2022, replacing the 1986 version; one BSTI committee document lists a 2026 edition). Helmets are on BSTI's mandatory certification list (Home Minister, May 2023) | Confirm current edition with BSTI |
 | 5 | ABS/CBS | No BRTA rule making ABS or CBS mandatory was found | Not mandatory as far as found: a new policy ask |
 | 6 | Official deaths | No 2024 BRTA annual total found. RSF 2023: 6,524 deaths, 2,487 on motorcycles (38.12%) | Request from BRTA |
-| 7 | Data protection law | Not checked in this round | Open |
+| 7 | Data protection law | Personal Data Protection Ordinance, 2025: approved October 2025, reported as gazetted November 2025; one source says enforcement is not yet fully operational | Confirm current status |
 | 8 | TVS/Bajaj programmes | Not found | Ask companies |
 | 9 | Hatakka et al. (2002) | Not checked | Open |
 
