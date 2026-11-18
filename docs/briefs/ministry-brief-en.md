@@ -31,7 +31,7 @@ Basis: the **Safe System** approach of WHO *Powered two- and three-wheeler safet
 
 ## 3. Decisions requested from the Ministry
 
-1. **Approve a pilot:** 6–9 months in total, including preparation, in 2–3 districts (proposed: Dhaka, Chattogram and one district with a high highway crash rate). If successful, a phased national rollout over the next 5 years.
+1. **Approve a pilot:** 6 months in total, including preparation, in 2–3 districts, as the first phase of a 5-year project (proposed: Dhaka, Chattogram and one district with a high highway crash rate). If successful, a phased national rollout over the rest of the project.
 2. **Form a technical committee:** BRTA, Police (Traffic), BSTI, BUET-ARI, the manufacturer consortium and a road-safety NGO. It approves the curriculum and assessment standards.
 3. **Accredit the academy:** BRTA (or a body it names) accredits training centres and instructors and audits them every year.
 4. **Link training to licensing (after the pilot):** a Level 1 certificate for a learner licence, and a Level 2 certificate for professional riders (ride-hailing, delivery). BRTA keeps control of the final test.
@@ -54,10 +54,12 @@ Industry work is already under way, and the pilot builds on it. Examples: Bangla
 | Period | Activity |
 |---|---|
 | Months 1–2 | Preparation: technical committee, curriculum approval, MoU; use existing instructors and centres |
-| Months 3–5 (3–8 in a 9-month pilot) | District pilot (Levels 1–2), including an IoT-helmet cohort |
-| Month 6 (month 9 in a 9-month pilot) | Independent evaluation report → decision on scale-up |
-| Years 1–2 | Scale-up: all divisional cities and major highways |
+| Months 3–5 | District pilot (Levels 1–2), including an IoT-helmet cohort |
+| Month 6 | Independent evaluation report → decision on scale-up |
+| Months 7–24 | Scale-up: all divisional cities and major highways |
 | Years 3–5 | National rollout; certificate linked to licensing; mid-term review in 2030 |
+
+*This is the plan on paper; it may be revised or refined during implementation as needed.*
 
 **KPIs:**
 

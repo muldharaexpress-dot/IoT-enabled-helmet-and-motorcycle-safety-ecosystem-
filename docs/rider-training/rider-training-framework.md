@@ -146,19 +146,21 @@ From the international comparison (`docs/international/international-lessons-bn.
 | Self-reported and police-recorded crashes, graduates vs control | Cohort study with BUET-ARI | Statistically significant reduction |
 | Share of women trainees | Academy MIS | Set target with the ministry |
 
-**Pilot design:** Start in 2–3 districts (for example Dhaka, Chattogram, and one district with a high highway crash rate). The whole pilot, including preparation, is 6–9 months; follow trainees from course end to the end of the pilot against a matched control group. Such a short period may not show a statistically strong fall in crashes, so helmet use, pass rates and IoT behaviour data are the main pilot indicators; long-term crash follow-up continues during scale-up.
+**Pilot design:** Start in 2–3 districts (for example Dhaka, Chattogram, and one district with a high highway crash rate). The whole pilot, including preparation, is 6 months; follow trainees from course end to the end of the pilot against a matched control group. Such a short period may not show a statistically strong fall in crashes, so helmet use, pass rates and IoT behaviour data are the main pilot indicators; long-term crash follow-up continues during scale-up.
 
 ---
 
 ## 8. Proposed phases
 
-The whole pilot, including preparation, takes 6–9 months:
+The total project is 5 years; its first 6 months are the pilot, including preparation:
 
 1. **Months 1–2 (preparation):** Curriculum approval with BRTA and the consortium, MoU. Convert existing instructors (e.g. Honda’s Safety Riding Department, BRTC) to the common certificate; use existing centres and ranges. A new instructor cohort (Level 3B) and new ranges move to the scale-up phase.
-2. **Months 3–5 (3–8 in a 9-month pilot):** District pilot for Levels 1–2, with an IoT-helmet cohort.
-3. **Month 6 (month 9 in a 9-month pilot):** Independent evaluation report → decision on scale-up and on linking certificates to licensing.
-4. **Years 1–2:** Scale-up to all divisional cities and major highways.
+2. **Months 3–5:** District pilot for Levels 1–2, with an IoT-helmet cohort.
+3. **Month 6:** Independent evaluation report → decision on scale-up and on linking certificates to licensing.
+4. **Months 7–24:** Scale-up to all divisional cities and major highways.
 5. **Years 3–5:** National rollout in all districts; mid-term review in 2030 (the target year of SDG 3.6 and UN A/RES/74/299).
+
+*This is the plan on paper; it may be revised or refined during implementation as needed.*
 
 ---
 

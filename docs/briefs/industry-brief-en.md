@@ -74,9 +74,9 @@ Basis: the WHO manual on powered two- and three-wheeler safety (2022), the gradu
 | Period | Activity |
 |---|---|
 | Months 1–2 | Bilateral discussions, consortium MoU, curriculum approval (with BRTA); convert existing instructors to the common certificate, use existing centres and ranges |
-| Months 3–5 (3–8 in a 9-month pilot) | District pilot |
-| Month 6 (month 9 in a 9-month pilot) | Independent evaluation and decision on scale-up. Total pilot, including preparation: 6–9 months |
-| Years 1–5 | Phased national rollout (years 1–2 scale-up, years 3–5 all districts) |
+| Months 3–5 | District pilot |
+| Month 6 | Independent evaluation and decision on scale-up. Total pilot, including preparation: 6 months |
+| Month 7 to year 5 | Phased national rollout (months 7–24 scale-up, years 3–5 all districts); total project 5 years, including the pilot |
 
 **What we ask of you:**
 
