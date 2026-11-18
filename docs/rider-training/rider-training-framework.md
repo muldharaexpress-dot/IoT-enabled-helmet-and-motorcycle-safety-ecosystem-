@@ -28,7 +28,7 @@ Delivered by a Motorcycle Riders Academy run by a manufacturer consortium (Honda
 1. **Graduated (progressive) access.** Riders move up in steps by skill, experience and machine power. This follows the model in EU Directive 2006/126/EC: category A1 (≤125 cc, ≤11 kW) from age 16, A2 (≤35 kW, ≤0.2 kW/kg) from 18, and full category A from 20 after 2 years on A2, or directly from 24. Bangladesh has its own licence ages (see §3). The **idea of progression** is what we adopt, not the EU ages.
 2. **Goals for Driver Education (GDE) matrix.** The curriculum covers all four GDE levels: (1) vehicle control, (2) traffic situations, (3) trip goals and context, and (4) personal attitudes and life goals. Most crash risk sits in levels 3–4 (speed choice, fatigue, peer pressure), which skills-only courses leave out.
 3. **Safe System approach.** This follows the WHO *Global Plan for the Decade of Action 2021–2030* and the WHO manual *Powered two- and three-wheeler safety* (2nd ed., 2022, ISBN 978-92-4-006056-2). Training is **one** pillar. It works alongside helmets, safer vehicles (ABS/CBS), safer speeds and enforcement, and is not a substitute for them.
-4. **Measured on outcomes.** Training on its own has a mixed evidence record for cutting crashes. The academy should therefore measure results (§7), not only count graduates.
+4. **Measured on outcomes.** Training on its own has a mixed evidence record for cutting crashes (a 2010 Cochrane review of 23 studies could not establish that training reduces crashes). The academy should therefore measure results (§7), not only count graduates.
 5. **Standard structure.** Courses are built from theory plus closed-range modules plus on-road modules. This mirrors widely used formats, such as the MSF Basic RiderCourse (about 5 h theory/e-course + 10 h range).
 
 ---
@@ -86,6 +86,24 @@ Three streams:
 - **3A Advanced Rider** (about 16 h): higher-capacity machines (the 2023 draft policy allowed up to 500 cc+ for the industry), cornering lines, emergency avoidance at higher speeds, group riding.
 - **3B Instructor (RiderCoach) Certification** (proposed **≥ 60 h**, modelled on international instructor-preparation courses): teaching methods, range management, risk-awareness coaching, assessment calibration, first aid. Instructors renew every 2 years, with audited teaching sessions.
 - **3C Specialist:** police and emergency escort riders, fleet safety managers (with ISO 39001:2012 *Road traffic safety management systems* as the management reference).
+
+### 4a. Additions from international experience (proposed)
+
+From the international comparison (`docs/international/international-lessons-bn.md`). Each item is a proposal for discussion. The country practice behind it is sourced in that document.
+
+| # | Addition | Learned from | Proposal for Bangladesh |
+|---|---|---|---|
+| 1 | Learner conditions | Victoria, Australia | While on a learner licence: no pillion, zero alcohol, L-plate, headlight on; only ≤125 cc with CBS or ABS |
+| 2 | Certificate validity | United Kingdom (CBT certificate valid 2 years) | Level 1 certificate valid 2 years; if no full licence by then, repeat the course |
+| 3 | Probationary licence | Malaysia (2-year probationary licence) | First 2 years after licensing are probationary, with stricter action for serious offences |
+| 4 | Fee ceiling | Philippines (fee caps since April 2023) | Government sets a maximum training fee; theory course free at government offices |
+| 5 | Biometric attendance | Philippines | Fingerprint or face check-in at every session, to stop fake certificates |
+| 6 | Two helmets at purchase | India (June 2025 draft) | Every new motorcycle sold with two BSTI-standard helmets (rider and pillion) |
+| 7 | Phased ABS | India (2016 notification; 2025 draft) | Time-bound roadmap: ABS above 125 cc and ABS/CBS at or below, then ABS on all |
+| 8 | Riding simulators | Indonesia (Astra Honda: 940 simulators) | Simulators for theory and hazard perception at schools and dealerships |
+| 9 | Law + enforcement + quality together | Vietnam (2007 helmet law) | Pair any new rule with enforcement, helmet quality control and before/after surveys |
+| 10 | Mandatory road test | Lesson from Thailand's weak points | BRTA final test covers both range and road, not a written test only |
+| 11 | Rigorous evaluation | Cochrane review (2010) | Control group in the pilot (already in §7); a randomised district design where feasible |
 
 ---
 
@@ -189,3 +207,5 @@ Sources: TBS Bangla (2023 draft) https://www.tbsnews.net/bangla/%E0%A6%AC%E0%A6%
 - Suzuki Riding School — https://www.tbsnews.net/features/wheels/suzuki-hosts-riding-school-campaign-335572
 - GDE matrix: Hatakka, M., Keskinen, E., Gregersen, N.P., Glad, A., Hernetkoski, K. (2002). From control of the vehicle to personal self-control. *Transportation Research Part F*, 5(3), 201–215.
 - ISO 39001:2012 *Road traffic safety (RTS) management systems*.
+- Cochrane review: Kardamanidis K. et al. (2010). Motorcycle rider training for the prevention of road traffic crashes. CD005240 — https://www.cochrane.org/evidence/CD005240_motorcycle-rider-training-preventing-road-traffic-crashes
+- International comparison and its sources: `docs/international/international-lessons-bn.md`
