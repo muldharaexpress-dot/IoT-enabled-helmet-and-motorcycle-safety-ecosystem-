@@ -82,6 +82,7 @@ Delivered by a Motorcycle Riders Academy run by a manufacturer consortium (Honda
 *Assessment:* hazard perception test + on-road observed ride (scored rubric) + written test (≥ 80%).
 
 ### Level 3 — ADVANCED (High level / Instructor / Specialist)
+*Full module tables, assessment and entry rules:* [Level 3 Advanced Curriculum](level-3-advanced-curriculum.md).
 Three streams:
 - **3A Advanced Rider** (about 16 h): higher-capacity machines (the 2023 draft policy allowed up to 500 cc+ for the industry), cornering lines, emergency avoidance at higher speeds, group riding.
 - **3B Instructor (RiderCoach) Certification** (proposed **≥ 60 h**, modelled on international instructor-preparation courses): teaching methods, range management, risk-awareness coaching, assessment calibration, first aid. Instructors renew every 2 years, with audited teaching sessions.
